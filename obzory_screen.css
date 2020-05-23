@@ -1,0 +1,145 @@
+#site {
+	background-image: url(images/p2.jpg);
+	background-repeat: repeat;
+}
+#page {
+	text-align: center;
+	width: 100%;
+	margin-top: 20px;
+	margin-right: auto;
+	margin-left: auto;
+	position: relative;
+}
+
+#site #page table {
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+}
+
+#content_index {margin: 0px;padding: 0px;height: 692px;width: 876px;background:url(images/Index_2B.jpg);position:relative;}
+#content_o_akci {margin: 0px;padding: 0px;height: 636px;width: 854px;background:url(images/O_akci_2B.jpg);position:relative;}
+#content_tym {margin: 0px;padding: 0px;height: 637px;width: 859px;background:url(images/Tym_2B.jpg);position:relative;}
+#content_kontakt {margin: 0px;padding: 0px;height: 654px;width: 879px;background:url(images/Kontakt_2B.jpg);position:relative;}
+#content_zazitek {margin: 0px;padding: 0px;height: 637px;width: 859px;background:url(images/Zazitek_2B.jpg);position:relative;}
+
+
+#content_index li   {margin: 0;padding: 0;list-style: none;display: block;position: absolute;}
+#content_o_akci li  {margin: 0;padding: 0;list-style: none;display: block;position: absolute;}
+#content_tym li     {margin: 0;padding: 0;list-style: none;display: block;position: absolute;}
+#content_kontakt li {margin: 0;padding: 0;list-style: none;display: block;position: absolute;}
+#content_zazitek li {margin: 0;padding: 0;list-style: none;display: block;position: absolute;}
+#content_index a    {display: block;text-indent: -9999px;outline:none;}
+#content_o_akci a   {display: block;text-indent: -9999px;outline:none;}
+#content_tym a      {display: block;text-indent: -9999px;outline:none;}
+#content_kontakt a  {display: block;text-indent: -9999px;outline:none;}
+#content_zazitek a  {display: block;text-indent: -9999px;outline:none;}
+
+#index_o_akci {left: 179px;top: 255px;}
+#index_tym {left: 686px;top: 483px;}
+#index_kontakt {left: 419px;top: 33px;}
+#index_zazitek {left: 511px;top: 198px;}
+
+#zazitek_o_akci {left: 728px;top: 527px;}
+#zazitek_tym {left: 252px;top: 532px;}
+#zazitek_kontakt {left: 168px;top: 16px;}
+#zazitek_index {left: 664px;top: 13px;}
+
+
+#o_akci_index {left: 695px;top: 6px;}
+#o_akci_tym {left: 682px;top: 443px;}
+#o_akci_kontakt {left: 48px;top: 9px;}
+#o_akci_zazitek {left: 92px;top: 157px;}
+
+#tym_index {left: 655px;top: 5px;}
+#tym_o_akci {left: 442px;top: 537px;}
+#tym_kontakt {left: 100px;top: 129px;}
+#tym_zazitek {left: 782px;top: 279px;}
+
+
+#kontakt_index {left: 612px;top: 0px;}
+#kontakt_o_akci {left: 283px;top: 131px;}
+#kontakt_tym {left: 245px;top: 454px;}
+#kontakt_zazitek {left: 376px;top: 282px;}
+#kontakt_form {
+	text-align:left;
+	left: 460px;
+	top: 165px;
+	width: 400px;
+	height: 410px;
+	overflow: auto;
+}
+#kontakt_info {
+	text-align:left;
+	left: 460px;
+	top: 540px;
+	width: 210px;
+	height: 200px;
+	overflow: auto;
+}
+#site #page table tr td #content_kontakt #kontakt_info a {
+	display:inline;
+	text-indent:0;
+}
+
+
+#index_o_akci a {width: 134px;height: 115px;}
+#index_tym a {width: 146px;height: 117px;}
+#index_kontakt a {width: 197px;height: 101px;}
+#index_zazitek a {width: 40px;height: 63px;}
+
+#o_akci_index a {width: 136px;height: 95px;}
+#o_akci_tym a {width: 156px;height: 118px;}
+#o_akci_kontakt a {width: 188px;height: 91px;}
+#o_akci_zazitek a {width: 40px;height: 63px;}
+
+#tym_index a {width: 116px;height: 81px;}
+#tym_o_akci a {width: 118px;height: 97px;}
+#tym_kontakt a {width: 184px;height: 98px;}
+#tym_zazitek a {width: 40px;height: 63px;}
+
+#zazitek_index a {width: 115px;height: 76px;}
+#zazitek_o_akci a {width: 107px;height: 88px;}
+#zazitek_kontakt a {width: 159px;height: 55px;}
+#zazitek_tym a {width: 122px;height: 92px;}
+
+#kontakt_index a {width: 159px;height: 118px;}
+#kontakt_o_akci a {width: 156px;height: 131px;}
+#kontakt_tym a {width: 188px;height: 140px;}
+#kontakt_zazitek a {width: 40px;height: 63px;}
+
+
+#index_o_akci a:hover {background:url(images/Index_hover_o_akci.jpg);}
+#index_tym a:hover {background: url(images/Index_hover_tym.jpg);}
+#index_kontakt a:hover {background: url(images/Index_hover_kontakt.jpg);}
+#index_zazitek a:hover {background: url(images/Index_hover_zazitek.jpg);}
+
+#o_akci_index a:hover {background:url(images/O_akci_hover_index.jpg);}
+#o_akci_tym a:hover {background: url(images/O_akci_hover_tym.jpg);}
+#o_akci_kontakt a:hover {background: url(images/O_akci_hover_kontakt.jpg);}
+#o_akci_zazitek a:hover {background: url(images/Hover-zazitek.jpg);}
+
+#tym_index a:hover {background: url(images/Tym_hover_index.jpg);}
+#tym_o_akci a:hover {background:url(images/Tym_hover_o_akci.jpg);}
+#tym_kontakt a:hover {background: url(images/Tym_hover_kontakt.jpg);}
+#tym_zazitek a:hover {background: url(images/Hover-zazitek.jpg);}
+
+#zazitek_index a:hover {background: url(images/Zazitek_hover_index.jpg);}
+#zazitek_o_akci a:hover {background:url(images/Zazitek_hover_o_akci.jpg);}
+#zazitek_kontakt a:hover {background: url(images/Zazitek_hover_kontakt.jpg);}
+#zazitek_tym a:hover {background: url(images/Zazitek_hover_tym.jpg);}
+
+#kontakt_index a:hover {background: url(images/Kontakt_hover_index.jpg);}
+#kontakt_o_akci a:hover {background:url(images/Kontakt_hover_o_akci.jpg);}
+#kontakt_tym a:hover {background: url(images/Kontakt_hover_tym.jpg);}
+#kontakt_zazitek a:hover {background: url(images/Hover-zazitek.jpg);}
+
+.ss-required-asterisk {
+	color: #F00;
+}
+
+.small_text {
+	font-size: 11px;
+	padding-right:30px;
+}
